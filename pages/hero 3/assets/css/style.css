@@ -212,58 +212,5 @@ body
 }
 
 
-@media (max-width: 991px)
-{
-   .container .card-Hero
-   {
-	   width:auto;
-	   max-width: 600px;
-	   align-items:flex-start;
-   } 
-   .container .card-Hero:hover
-   {
-	   height: 600px;  
-   } 
-   .container .card-Hero:hover img
-   {
-       left: 50%;
-	   height: 350px;
-   }   
-   .container .card-Hero .content-Hero
-   {
-	   width:100%;
-	   left: 0;
-	   padding: 40px;
-   }
-}
 
-@media (max-width: 767px)
-{
-	.container
-	{
-		flex-direction: column;		
-	}
-	.container .card-Hero
-	{
-		margin:40px 20px;
-	}
-}
 
-@media (max-width: 420px)
-{
-	.container .card-Hero .content-Hero
-	{
-		padding:30px;
-	}
-	.container .card-Hero:hover img
-	{
-		height: 300px;
-	}
-}
-
-@media (max-width: 330px)
-{
-	.container .card-Hero:hover {
-		height: 640px;
-	}
-}
