@@ -162,4 +162,6 @@ WD-ProjectName
 |Image resources | all used images are saved here | https://ph.pinterest.com/hermayni22/hands-on-2/
 |How To Create A Website using HTML & CSS Step-by-Step Tutorial| served as a guide in making the website | https://youtu.be/CQZxeoQeo5c?si=koF21GHSWwC0Xu4Z|
 |Google Fonts | Font Library | https://fonts.google.com/|
+|CSS Transitions | used as a guide for transition effects | https://www.w3schools.com/css/css3_transitions.asp |
+|CSS :hover Selector | used as a guide  for hover effects | https://www.w3schools.com/cssref/sel_hover.php | 
 
