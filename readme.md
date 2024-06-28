@@ -165,5 +165,7 @@ WD-ProjectName
 |CSS Transitions | used as a guide for transition effects | https://www.w3schools.com/css/css3_transitions.asp |
 |CSS :hover Selector | used as a guide  for hover effects | https://www.w3schools.com/cssref/sel_hover.php | 
 |Cards | Card design inspo | https://codepen.io/abhishek747/pen/BbWKVa|
+|SOFT AND CUTE CHICK 3 | Hero 2 card image source | https://stickers.cloud/en/pack/soft-and-cute-chick-3 | 
+
 
 
