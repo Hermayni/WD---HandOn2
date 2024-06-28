@@ -164,4 +164,6 @@ WD-ProjectName
 |Google Fonts | Font Library | https://fonts.google.com/|
 |CSS Transitions | used as a guide for transition effects | https://www.w3schools.com/css/css3_transitions.asp |
 |CSS :hover Selector | used as a guide  for hover effects | https://www.w3schools.com/cssref/sel_hover.php | 
+|Cards | Card design inspo | https://codepen.io/abhishek747/pen/BbWKVa|
+
 
