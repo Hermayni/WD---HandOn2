@@ -117,7 +117,7 @@ figure:hover .hide {
     padding: 10px;
 }
 
-/* Specific sizes for each logo */
+
 .logohero2 {
     height: 80px;
 }
@@ -131,14 +131,13 @@ figure:hover .hide {
 
 /* END */
 
-/* Cards Styles */
 .cards-list {
     width: 100%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    margin-top: -50vh; /* Adjust to bring the cards to the center */
+    margin-top: -50vh; 
     padding: 2rem;
 }
 
